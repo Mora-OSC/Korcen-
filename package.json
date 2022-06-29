@@ -1,0 +1,25 @@
+{
+  "name": "korcen_js_code",
+  "version": "1.0.0",
+  "description": "Korcen 모듈 예제 소스코드 입니다. (JS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "npm i",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MORA-Team/Korcen.git"
+  },
+  "author": "939349343431954462",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MORA-Team/Korcen/issues"
+  },
+  "homepage": "https://github.com/MORA-Team/Korcen#readme",
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "korcen": "^0.1.8"
+  }
+}
